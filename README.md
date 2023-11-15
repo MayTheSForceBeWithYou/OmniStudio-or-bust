@@ -1,4 +1,7 @@
-# Salesforce DX Project: Next Steps
+# OmniStudio-or-bust
+A repository to help study for the OmniStudio Salesforce certifications
+
+## Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
