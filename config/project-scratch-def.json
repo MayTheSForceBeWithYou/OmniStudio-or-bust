@@ -1,0 +1,16 @@
+{
+  "orgName": "OmniStudio Rocks!",
+  "edition": "Developer",
+  "features": [
+    "EnableSetPasswordInApi",
+    "InsuranceCalculationUser"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
